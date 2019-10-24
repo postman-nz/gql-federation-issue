@@ -6,7 +6,7 @@
 ## Run
 `node src/index.js`
 
-## Query in Ground
+## Query in Playground (http://localhost:4000/)
 ### Works as expected
 This returns the value `1` which maps to `GREEN`
 ```
